@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research or metadata architecture, please cite it as below."
+authors:
+- family-names: "Dolgoarshinnykh"
+  given-names: "Oleg"
+  orcid: "https://orcid.org/0009-0009-8275-8483"
+title: "Schema.org as an Operational Interface: Research and Implementation"
+version: 1.0.0
+doi: 10.5281/zenodo.19715411
+date-released: 2025-03-18
+url: "https://zenodo.org/records/19715411"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19715411
+keywords:
+  - "AI-aligned SEO"
+  - "YMYL"
+  - "Schema.org"
+  - "Knowledge Graphs"
+  - "LLM Visibility"
