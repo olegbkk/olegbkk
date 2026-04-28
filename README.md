@@ -16,7 +16,7 @@ I research the transition from descriptive metadata to operational interfaces fo
 
 * **"Schema.org as an Operational Interface"** — A study on AI-native web data architectures.
     * **DOI:** [10.5281/zenodo.19715411](https://zenodo.org/records/19715411)
-    * **Semantic Scholar:** [Profile](https://www.semanticscholar.org/author/Oleg-Dolgoarshinnykh/2390176313)
+    * **Google Scholar:** [Profile](https://scholar.google.com/citations?user=Rh3obEcAAAAJ)
 
 ## 🌐 Connectivity & Authority
 
