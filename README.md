@@ -23,7 +23,6 @@ I research the transition from descriptive metadata to operational interfaces fo
 The following nodes are used for data verification and establishing expert authority within the Knowledge Graph:
 
 * **Official Website:** [nongkhaem.com](https://nongkhaem.com)
-* **Wikidata:** [Q139495319](https://www.wikidata.org/wiki/Q139495319)
 * **ORCID:** [0009-0009-8275-8483](https://orcid.org/0009-0009-8275-8483)
 
 ---
