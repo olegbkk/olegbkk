@@ -1,5 +1,5 @@
 # Oleg Dolgoarshinnykh
-### Senior Digital Growth Architect | International SEO & AI Visibility
+### Senior Growth Engineer, SEO & AI
 
 Strategic growth management in high-competition and regulated niches (YMYL Healthcare). Engineering ecosystems that establish brands as clinical authorities for search engines and AI agents.
 
@@ -26,4 +26,4 @@ The following nodes are used for data verification and establishing expert autho
 * **ORCID:** [0009-0009-8275-8483](https://orcid.org/0009-0009-8275-8483)
 
 ---
-*Senior Digital Growth Architect | Bangkok, Thailand*
+*Senior Growth Engineer, SEO & AI | Bangkok, Thailand*
