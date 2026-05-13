@@ -14,6 +14,10 @@ Strategic growth management in high-competition and regulated niches (YMYL Healt
 
 I research the transition from descriptive metadata to operational interfaces for AI. My work is published and indexed in international scientific databases:
 
+* **"Intent-First SEO Pipeline: A 3-Prompt Architecture for Strategic Growth"**
+    * *Focus:* Eliminating the impression-click gap through structural intent validation.
+    * **DOI:** [10.5281/zenodo.20146405](https://doi.org/10.5281/zenodo.20146405)
+
 * **"Schema.org as an Operational Interface"** — A study on AI-native web data architectures.
     * **DOI:** [10.5281/zenodo.19715411](https://zenodo.org/records/19715411)
     * **Google Scholar:** [Profile](https://scholar.google.com/citations?user=Rh3obEcAAAAJ)
